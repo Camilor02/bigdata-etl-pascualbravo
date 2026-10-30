@@ -14,4 +14,4 @@ Este repositorio contiene la solución completa para el proyecto de ETL, limpiez
 * `scripts-sql/`: Consultas analíticas y de limpieza de base de datos.
 
 ## 🎥 Video Explicativo
-[Clic aquí para ver el video explicativo en YouTube](PEGA_AQUI_TU_ENLACE_DE_VIDEO)
+https://drive.google.com/file/d/1xV8QsUG-4350z5_4Xdp8IIWM1aVx8nbM/view?usp=sharing
