@@ -9,6 +9,7 @@ Este repositorio contiene la solución completa para el proyecto de ETL, limpiez
 
 ## Archivos del Repositorio
 * `algoritmo-etl.py`: Script de ingesta y carga de datos desde DANE.
+* `bigdata-et0155-tarea-ETL-v2-informe-equipo_7.docx`: Informe completo Tarea Bigdata-ETL.
 * `algoritmo-calculo-tamanio.py`: Algoritmo de prueba de escalabilidad (10k a 10M de registros).
 * `colombia-dane-departamentos.csv`: Archivo fuente de municipios y departamentos.
 * `scripts-sql/`: Consultas analíticas y de limpieza de base de datos.
